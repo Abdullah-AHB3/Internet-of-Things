@@ -1,2 +1,2 @@
-# ControlPanel-HTMLandCSS
-Create control panel consist of 5 button: up,down.left.right and stop. This panel created by html and css.
+# Smart Methods-Path4
+Smart Methods is a summer training internship. My submitted tasks in this training about "Internet-of-Things" (Path4) will be in this repository.
